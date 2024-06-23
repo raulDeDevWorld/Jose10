@@ -7,7 +7,6 @@ import Link from 'next/link'
 import style from '@/app/page.module.css'
 import Button from '@/components/Button'
 import Error from '@/components/Error'
-import Video from '@/components/Video'
 
 import Input from '@/components/Input'
 import { useRouter } from 'next/navigation';
