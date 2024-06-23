@@ -10,7 +10,7 @@ import ScrollAnimation from 'react-animate-on-scroll';
 import "animate.css/animate.compat.css"
 import priceFTL from '@/db/priceFTL.json'
 import 'react-awesome-slider/dist/styles.css';
-import Footer from '@/components/footer'
+import Footer from '@/components/Footer'
 import { useSearchParams } from 'next/navigation'
 
 
