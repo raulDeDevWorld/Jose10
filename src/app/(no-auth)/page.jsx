@@ -8,7 +8,7 @@ import Button from '@/components/Button'
 import Subtitle from '@/components/Subtitle'
 import Error from '@/components/Error'
 import { services } from '@/db'
-import Footer from '@/components/Footer'
+import Footer from '@/components/footer'
 import TextMaquina from '@/components/TextMaquina'
 import { useRouter } from 'next/navigation';
 import AwesomeSlider from 'react-awesome-slider';
